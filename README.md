@@ -1,12 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm aknandan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aknandansharma&label=Profile%20views&color=0e75b6&style=flat" alt="aknandansharma" /> </p>
-
-<p align="left"> <a href="https://twitter.com/aknandankumar" target="blank"><img src="https://img.shields.io/twitter/follow/aknandankumar?logo=twitter&style=for-the-badge" alt="aknandankumar" /></a> </p>
-
+<img align="right" alt="Coding" width="550" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **my_Self**
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
